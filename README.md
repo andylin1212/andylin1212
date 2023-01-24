@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi 👋, this is Andy
+
+
+💻 Full Stack Software Engineer
+🎓 Graduated from University of California, Berkeley with BA in Economics.
+📚 Learned to become a SWE at Hackreactor (2022/10 Cohort)
+:zap:
+🧐 Learning about data sciences and ML with Python and Kaggle.
 
 <!--
 **andylin1212/andylin1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
