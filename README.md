@@ -1,5 +1,5 @@
-### Hi 👋, this is Andy
-
+## Hi 👋, this is Andy
+### About Me
 
 - 💻 Full Stack Software Engineer
 - 🎓 Graduated from University of California, Berkeley with BA in Economics.
