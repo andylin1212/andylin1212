@@ -3,7 +3,6 @@
 
 - 💻 Full Stack Software Engineer
 - 🎓 Graduated from University of California, Berkeley with BA in Economics
-- 📚 Started the SWE Journey at Hackreactor (2022/10 Cohort)
 - :zap: Short-term goal: become AlgoPro and continue building side projects
 - 🎯 Long-term goal: contribute to or create a product/service that is net positive to society
 - 🌱 Learning about data sciences and ML with Python and Kaggle
